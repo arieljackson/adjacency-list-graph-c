@@ -1,5 +1,4 @@
 /* Ariel Jackson
- * Parallel Works answers
  * Representing a graph in adjacency list form
  */
 #include <math.h>
